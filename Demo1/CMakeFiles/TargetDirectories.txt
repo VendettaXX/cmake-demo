@@ -1,0 +1,3 @@
+/home/brent/Desktop/.git/cmake-demo/Demo1/CMakeFiles/rebuild_cache.dir
+/home/brent/Desktop/.git/cmake-demo/Demo1/CMakeFiles/edit_cache.dir
+/home/brent/Desktop/.git/cmake-demo/Demo1/CMakeFiles/Demo.dir
